@@ -1,0 +1,17 @@
+C:\OptimusDev\Calc-One\calc-one\bin\Debug\net8.0-windows\calc-one.exe
+C:\OptimusDev\Calc-One\calc-one\bin\Debug\net8.0-windows\calc-one.deps.json
+C:\OptimusDev\Calc-One\calc-one\bin\Debug\net8.0-windows\calc-one.runtimeconfig.json
+C:\OptimusDev\Calc-One\calc-one\bin\Debug\net8.0-windows\calc-one.dll
+C:\OptimusDev\Calc-One\calc-one\bin\Debug\net8.0-windows\calc-one.pdb
+C:\OptimusDev\Calc-One\calc-one\obj\Debug\net8.0-windows\calc_one.Form1.resources
+C:\OptimusDev\Calc-One\calc-one\obj\Debug\net8.0-windows\calc-one.csproj.GenerateResource.cache
+C:\OptimusDev\Calc-One\calc-one\obj\Debug\net8.0-windows\calc-one.GeneratedMSBuildEditorConfig.editorconfig
+C:\OptimusDev\Calc-One\calc-one\obj\Debug\net8.0-windows\calc-one.AssemblyInfoInputs.cache
+C:\OptimusDev\Calc-One\calc-one\obj\Debug\net8.0-windows\calc-one.AssemblyInfo.cs
+C:\OptimusDev\Calc-One\calc-one\obj\Debug\net8.0-windows\calc-one.csproj.CoreCompileInputs.cache
+C:\OptimusDev\Calc-One\calc-one\obj\Debug\net8.0-windows\calc-one.sourcelink.json
+C:\OptimusDev\Calc-One\calc-one\obj\Debug\net8.0-windows\calc-one.dll
+C:\OptimusDev\Calc-One\calc-one\obj\Debug\net8.0-windows\refint\calc-one.dll
+C:\OptimusDev\Calc-One\calc-one\obj\Debug\net8.0-windows\calc-one.pdb
+C:\OptimusDev\Calc-One\calc-one\obj\Debug\net8.0-windows\calc-one.genruntimeconfig.cache
+C:\OptimusDev\Calc-One\calc-one\obj\Debug\net8.0-windows\ref\calc-one.dll
