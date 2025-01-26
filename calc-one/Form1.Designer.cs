@@ -64,6 +64,7 @@
             btnTwo.TabIndex = 1;
             btnTwo.Text = "2";
             btnTwo.UseVisualStyleBackColor = true;
+            btnTwo.Click += btnTwo_Click;
             // 
             // btnThree
             // 
@@ -73,6 +74,7 @@
             btnThree.TabIndex = 2;
             btnThree.Text = "3";
             btnThree.UseVisualStyleBackColor = true;
+            btnThree.Click += btnThree_Click;
             // 
             // btnSix
             // 
@@ -82,6 +84,7 @@
             btnSix.TabIndex = 5;
             btnSix.Text = "6";
             btnSix.UseVisualStyleBackColor = true;
+            btnSix.Click += btnSix_Click;
             // 
             // btnFive
             // 
@@ -91,6 +94,7 @@
             btnFive.TabIndex = 4;
             btnFive.Text = "5";
             btnFive.UseVisualStyleBackColor = true;
+            btnFive.Click += btnFive_Click;
             // 
             // btnFour
             // 
@@ -100,6 +104,7 @@
             btnFour.TabIndex = 3;
             btnFour.Text = "4";
             btnFour.UseVisualStyleBackColor = true;
+            btnFour.Click += btnFour_Click;
             // 
             // btnNine
             // 
@@ -109,6 +114,7 @@
             btnNine.TabIndex = 8;
             btnNine.Text = "9";
             btnNine.UseVisualStyleBackColor = true;
+            btnNine.Click += btnNine_Click;
             // 
             // btnEight
             // 
@@ -118,6 +124,7 @@
             btnEight.TabIndex = 7;
             btnEight.Text = "8";
             btnEight.UseVisualStyleBackColor = true;
+            btnEight.Click += btnEight_Click;
             // 
             // btnSeven
             // 
@@ -127,6 +134,7 @@
             btnSeven.TabIndex = 6;
             btnSeven.Text = "7";
             btnSeven.UseVisualStyleBackColor = true;
+            btnSeven.Click += btnSeven_Click;
             // 
             // btnZero
             // 
@@ -136,6 +144,7 @@
             btnZero.TabIndex = 9;
             btnZero.Text = "0";
             btnZero.UseVisualStyleBackColor = true;
+            btnZero.Click += btnZero_Click;
             // 
             // btnEqual
             // 

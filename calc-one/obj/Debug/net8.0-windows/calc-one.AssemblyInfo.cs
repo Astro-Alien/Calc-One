@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calc-one")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd3e3de3961f38d5fa25c3d915767e15fd311001")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+825ce41d42a3f6d514f0da7bcdee2fa4ba594643")]
 [assembly: System.Reflection.AssemblyProductAttribute("calc-one")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calc-one")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{3F2C55CB-E53D-496C-9A41-49A43E09BC2B}|calc-one.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F2C55CB-E53D-496C-9A41-49A43E09BC2B}|calc-one.csproj|c:\\optimusdev\\calc-one\\calc-one\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3F2C55CB-E53D-496C-9A41-49A43E09BC2B}|calc-one.csproj|C:\\OptimusDev\\Calc-One\\calc-one\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3F2C55CB-E53D-496C-9A41-49A43E09BC2B}|calc-one.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\OptimusDev\\Calc-One\\calc-one\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T18:12:38.268Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "Form1.Designer.cs",
               "ToolTip": "C:\\OptimusDev\\Calc-One\\calc-one\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AQIAAJUAAAAAAAAAAADwv4sAAAAXAAAA",
+              "ViewState": "AQIAAJ4AAAAAAAAAAADwv5QAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T18:12:04.646Z",
               "EditorCaption": ""
